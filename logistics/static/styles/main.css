@@ -1,0 +1,135 @@
+-.sect{
+            background-color: #ffffff;
+
+            color: black;
+
+        }
+        .sect-2{
+            background-color: #3d414c;
+            position: relative;
+
+        }
+        .sect-3{
+            background-color: #aecde2;
+            position: relative;
+
+        }
+        .sect-4{
+            background-color: #ffffff;
+
+        }
+        .sect-5{
+            background-color: #3d414c;
+
+        }
+        .sect h4{
+          position: absolute;
+          top: 50%;
+          left: 50%;
+        }
+        .yellow{
+          color: yellow;
+        }
+        .white{
+          color: white;
+         }
+         .grey{
+            color: grey;
+         }
+         .blue{
+            color: #aecde2;
+         }
+         .big-button{
+            padding-left: 40%;
+            padding-right: 40%;
+            padding-top: 5%
+            background-color: yellow;
+            }
+.but{
+    padding-left: 44%;
+    padding-right: 44%;
+    padding-top: 10px;
+    padding-bottom:10px;
+    background-color: yellow;
+    color: white;
+    border: none;
+
+}
+.orient{
+    text-orientation: mixed;
+    writing-mode: tb-rl;
+}
+
+
+
+
+
+.box-1{
+    background-color: yellow;
+    width:58px;
+    height: 200px;
+    position: absolute;
+    bottom: 10px;
+    right: 73%;
+
+    }
+
+.box-2{
+    margin-left: 10px;
+    background-color: yellow;
+    width:58px;
+    height: 250px;
+    position: absolute;
+    bottom: 10px;
+    left: 22%;
+    }
+
+.box-3{
+    margin-left: 10px;
+    background-color: yellow;
+    width:58px;
+    height: 180px;
+    position: absolute;
+    bottom: 10px;
+    left: 40%;
+    }
+
+.box-4{
+    margin-left: 10px;
+    background-color: yellow;
+    width:58px;
+    height: 200px;
+    position: absolute;
+    bottom: 10px;
+    left: 58%;
+    }
+
+.box-5{
+    margin-left: 10px;
+    background-color: yellow;
+    width:58px;
+    height: 150px;
+    position: absolute;
+    bottom: 10px;
+    left: 76%;
+    }
+
+input.form-control, textarea{
+    background: #3d414c;
+}
+
+textarea.form-control, textarea{
+    background: #3d414c;
+}
+
+input#form-white, textarea{
+    background-color: white;
+}
+
+input#another, textarea{
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
